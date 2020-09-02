@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>DeviceKey:<input type="text" id="device_key">
+    <button onclick="open_toy()">开机</button>
+</p>
+<textarea id="send"></textarea>
+<button onclick="send_message()">发送消息</button>
+<textarea id="recieve"></textarea>
+
+</body>
+<!--<script src="/static/jquery-3.3.1.min.js"></script>-->
+<!--<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>-->
+<script>
+    var ws_serv = "ws://127.0.0.1:9528/ws/";
+    var ws = null;
+
+    function create_ws(toy_id) {
+        ws = new WebSocket(ws_serv + toy_id);
+        ws.onmessage = eventMessage => {
+            console.log(JSON.parse(eventMessage.data));
+            var revive_message_dict = JSON.parse(eventMessage.data);
+            document.getElementById("recieve").innerText = revive_message_dict.message;
+        };
+        ws.onclose = function () {
+            create_ws();
+        }
+    }
+
+    function open_toy() {
+        var devicekey = document.getElementById("device_key").value;
+        create_ws(devicekey);
+    }
+
+    function send_message() {
+
+        var message = document.getElementById("send").value;
+        var username = document.getElementById("device_key").value;
+        var message_dict = {
+            "message": message,
+            "username": username
+        }
+        ws.send(JSON.stringify(message_dict));
+    }
+
+
+</script>
+</html>

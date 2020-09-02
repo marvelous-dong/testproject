@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1403d732-301a-42e5-af9c-73d76f935558" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="f8humfnk" />
+  </component>
+  <component name="ProjectId" id="1gB4Xhd8CelbgMkKYEyiKUlJIPW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/serializer" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.jiaoben">
+    <configuration name="toy.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask_websocket/templates/toy.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_websocket" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jiaoben" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_websocket" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiaoben.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_websocket" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ws_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_websocket" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ws_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ws_app" />
+        <item itemvalue="Python.jiaoben" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="JavaScript Debug.toy.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1403d732-301a-42e5-af9c-73d76f935558" name="Default Changelist" comment="" />
+      <created>1597574693073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597574693073</updated>
+      <workItem from="1597574697123" duration="2733000" />
+      <workItem from="1597581937716" duration="2098000" />
+      <workItem from="1597622781110" duration="8407000" />
+      <workItem from="1597636399164" duration="2804000" />
+      <workItem from="1597656644132" duration="181000" />
+      <workItem from="1597710272358" duration="8000" />
+      <workItem from="1597714710359" duration="1484000" />
+      <workItem from="1597717915102" duration="679000" />
+      <workItem from="1597720428575" duration="661000" />
+      <workItem from="1597733015833" duration="273000" />
+      <workItem from="1597735916277" duration="1539000" />
+      <workItem from="1597796341080" duration="561000" />
+      <workItem from="1597882375328" duration="1607000" />
+      <workItem from="1597891934912" duration="750000" />
+      <workItem from="1599040360102" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597625261429">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="260" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1237.777@43.23.1237.777" timestamp="1597625261429" />
+    <state x="467" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597631771281">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="467" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/43.23.1237.777@43.23.1237.777" timestamp="1597631771281" />
+    <state width="1191" height="198" key="GridCell.Tab.0.bottom" timestamp="1597891528453">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1191" height="198" key="GridCell.Tab.0.bottom/39.23.1241.777@39.23.1241.777" timestamp="1597891377487" />
+    <state width="1191" height="198" key="GridCell.Tab.0.bottom/40.23.1240.777@40.23.1240.777" timestamp="1597891528453" />
+    <state width="1191" height="198" key="GridCell.Tab.0.bottom/41.23.1239.777@41.23.1239.777" timestamp="1597887562843" />
+    <state width="1191" height="198" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1597631794905" />
+    <state width="1191" height="198" key="GridCell.Tab.0.center" timestamp="1597891528452">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1191" height="198" key="GridCell.Tab.0.center/39.23.1241.777@39.23.1241.777" timestamp="1597891377486" />
+    <state width="1191" height="198" key="GridCell.Tab.0.center/40.23.1240.777@40.23.1240.777" timestamp="1597891528452" />
+    <state width="1191" height="198" key="GridCell.Tab.0.center/41.23.1239.777@41.23.1239.777" timestamp="1597887562842" />
+    <state width="1191" height="198" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1597631794904" />
+    <state width="1191" height="198" key="GridCell.Tab.0.left" timestamp="1597891528452">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1191" height="198" key="GridCell.Tab.0.left/39.23.1241.777@39.23.1241.777" timestamp="1597891377486" />
+    <state width="1191" height="198" key="GridCell.Tab.0.left/40.23.1240.777@40.23.1240.777" timestamp="1597891528452" />
+    <state width="1191" height="198" key="GridCell.Tab.0.left/41.23.1239.777@41.23.1239.777" timestamp="1597887562842" />
+    <state width="1191" height="198" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1597631794903" />
+    <state width="1191" height="198" key="GridCell.Tab.0.right" timestamp="1597891528452">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1191" height="198" key="GridCell.Tab.0.right/39.23.1241.777@39.23.1241.777" timestamp="1597891377487" />
+    <state width="1191" height="198" key="GridCell.Tab.0.right/40.23.1240.777@40.23.1240.777" timestamp="1597891528452" />
+    <state width="1191" height="198" key="GridCell.Tab.0.right/41.23.1239.777@41.23.1239.777" timestamp="1597887562842" />
+    <state width="1191" height="198" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1597631794905" />
+    <state x="189" y="50" key="SettingsEditor" timestamp="1597630101663">
+      <screen x="41" y="23" width="1239" height="777" />
+    </state>
+    <state x="189" y="50" key="SettingsEditor/41.23.1239.777@41.23.1239.777" timestamp="1597630101663" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_websocket$ws_app.coverage" NAME="ws_app Coverage Results" MODIFIED="1597891377473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_websocket$manage.coverage" NAME="manage Coverage Results" MODIFIED="1597718178046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_websocket$app.coverage" NAME="app Coverage Results" MODIFIED="1597887553202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_websocket$jiaoben.coverage" NAME="jiaoben Coverage Results" MODIFIED="1597890865358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
